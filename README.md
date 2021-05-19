@@ -1,5 +1,5 @@
-<img align="right" src="https://www.codefec.com/w/users/github/zhuchunshu:readme" />
 <img align="right" src="https://www.codefec.com/w/users/github/zhuchunshu:readme/top-langs" />
+<img align="right" src="https://www.codefec.com/w/users/github/zhuchunshu:readme" />
 
 ### Hello 👋
 
