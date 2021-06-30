@@ -9,5 +9,5 @@ https://codefec.com
 
 ### Sponsor me
 
-<img align="right" src="./Collection/alipay.jpg" />
-<p><img align="left" src="./Collection/wxpay.png" /></p>
+<img width="320px" height="400px" align="right" src="./Collection/alipay.jpg" />
+<p><img width="320px" height="400px" align="left" src="./Collection/wxpay.png" /></p>
