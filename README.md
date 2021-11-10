@@ -1,8 +1,7 @@
 ### Hello 👋
 
-🇨🇳 China Shandong🕹Web developer
+🇨🇳 China Shandong Jinan🕹Web developer
 
-https://codefec.com
 
 My email: zhuchunshu999@gmail.com , laravel@88.com
 
