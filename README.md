@@ -5,7 +5,7 @@
 
 My email: zhuchunshu999@gmail.com , laravel@88.com, runpod.cn@gmail.com
 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/zhuchunshu/zhuchunshu/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/zhuchunshu/zhuchunshu/output/github-contribution-grid-snake.svg)
 
 <details>
 <summary>😎 View my contributions in 3D</summary>
